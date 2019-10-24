@@ -2,7 +2,9 @@
 The Whole Disease Model of Oral Cancer
 
 Author: Ian Cromwell, PhD
+
 Technical Advisor: Stavros Korokithakis (Stochastic Technologies)
+
 Supervisory Committee: Dr. Nick Bansback, Dr. Catherine Poh, Dr. Stuart Peacock, Dr. Greg Werker, Dr. Charlyn Black
 
 The Whole Disease Model of Oral Cancer (WDMOC) is a decision model developed for Health Technology Assessment (HTA), Health Technology Management (HTM) and cost-effectiveness analysis (CEA). A full description of the model is available in the document entitled 'Methods.docx', but a brief description follows.
