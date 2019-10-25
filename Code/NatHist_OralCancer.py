@@ -40,7 +40,7 @@ class NatHistOCa:
     def __init__(self, estimates, regcoeffs):
         self._estimates = estimates
         self._regcoeffs = regcoeffs
-        self.timehorizon = estimates.timehorizon.sample()*365
+        self.timehorizon = estimates.TimeHorizon.sample()*365
     
     def Process(self, entity, natHist):   
            
