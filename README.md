@@ -1,7 +1,7 @@
 # WDMOC
 The Whole Disease Model of Oral Cancer
 
-Author: Ian Cromwell, PhD
+Author: Ian Andrew Cromwell, PhD
 
 Technical Advisor: Stavros Korokithakis (Stochastic Technologies)
 
